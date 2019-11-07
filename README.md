@@ -3,9 +3,9 @@ Docker oracle integration courtesy of [egojason/docker-python-oracle](https://gi
   
 This docker image serves as a microservice to be used in an HTTP transform by executing queries to a database for entities.
 
-##How to use:
-###Setup environment
-####Dev phase
+## How to use:
+### Setup environment
+#### Dev phase
 1. Create testing environment
     * Recommended using PyCharm with Docker integration to easily set environment variables for the container during the testing phase.
     * Otherwise set the env variables in your terminal environment and run something like 
