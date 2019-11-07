@@ -29,7 +29,7 @@ This docker image serves as a microservice to be used in an HTTP transform by ex
 3. Use ```curl 0.0.0.0:5000/transform -X POST -d '{"_id":"mock-data"}'``` and look at the result
     * If something goes wrong use ```docker logs httpOracle```
 
-####Sesam Testing Phase
+#### Sesam Testing Phase
 1. Run the microservice inside Sesam.
  System config:
 ```
