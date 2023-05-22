@@ -1,6 +1,6 @@
 cx_Oracle==7.2.3
 flask==1.1.1
-requests==2.22.0
+requests==2.31.0
 cherrypy==18.2.0
 paste==3.2.2
 sesamutils==0.1.10
